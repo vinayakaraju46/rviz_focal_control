@@ -4,6 +4,15 @@ Move the RViz camera's focal point with your keyboard, visualize it with a targe
 
 This ROS 2 package provides an RViz panel (`FocalPanel`) and a terminal keyboard node (`keyboard_focal_control`). Use the arrow keys to position the target, **Enter** to send a goal, and **R** to return the camera center to your vehicle.
 
+
+
+https://github.com/user-attachments/assets/d253e1f0-7ce3-4604-9cc1-2528afdfe846
+
+
+
+
+
+
 ## Build
 
 The commands below use **ROS 2 Jazzy**, a Bash shell, and a colcon workspace at `~/ros2_ws`. You need ROS 2 with RViz, colcon, and rosdep installed. The keyboard node requires an interactive Unix terminal.
