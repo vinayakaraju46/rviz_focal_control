@@ -1,0 +1,10 @@
+<library path="rviz_focal_control">
+  <class
+    name="rviz_focal_control/FocalPanel"
+    type="rviz_focal_control::FocalPanel"
+    base_class_type="rviz_common::Panel">
+    <description>
+      Control RViz focal point through ROS 2.
+    </description>
+  </class>
+</library>
